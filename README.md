@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @TomasBerdis
-- 👀 I’m interested in Game Development
+- 🙋‍♂️ Hi, I’m Tomáš Berdis
+- 🎮 I’m interested in Rendering and Game Development in general
+- 🎨 My portfolio: https://tomasberdis.github.io
 - 📫 How to reach me:
   -  tomasberdis@gmail.com
   -  www.linkedin.com/in/TomasBerdis
